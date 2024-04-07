@@ -67,4 +67,104 @@ A service should have both utility and warranty.
 __Utility__: functionality offered by a product or service to meet a particular need. "What it does" Fit for purpose. Requires that a service support the performance or remove constraints from the consumer. Social media: sharing posts.
 __Warranty__: assurance that a product or service will meet agreed requirements. "How it does it" Fit for use. Requires that a service has defined and agreed-upon conditions that are met. Social media: site is always accessible. Concerned with availability, capacity, capability, security requirements.
 
+__Four Dimensions of Service Management__
+1. Organisations & People
+	How do we organise our teams?
+	Education / skills / experience.
+	Outsourced expertise.
+2. Information & Technology
+	Collecting data.
+	Tooling.
+3. Partners & Suppliers
+	 External teams that are going to contribute to the success of our service.
+	 How do we communicate with partners / suppliers?
+	 How do we receive communication back?
+4. Value Streams & Processes
+	 Identifying and eliminating waste.
+	 Identifying value stream steps that are non value-adding activities and removing them.
+
+__Service Value System (SVS)__ describes how all the components and activities of the work organisation work together as a system to enable value co-creation.
+Require integration and coordination of activities, practices, teams, authorities, responsibilities.
+Ensures co-creation of value.
+
+Input: Opportunity / demand
+Output: Value
+Process Layers: Guiding Principles / Continual Improvement -> Governance / Practices -> Service Value Chain
+
+__Guiding Principle__ a recommendation that guides an organisation in all circumstances.
+Allows organisation to integrate them into an overall approach to service management.
+Encourage and support organisations in continual improvement.
+
+1) Focus on Value; all stakeholders, service provider, customer.
+2) Start where you are.
+3) Progress iteratively with feedback.
+4) Collaborate and promote visibility.
+5) Think and work holistically.
+6) Keep it simple and practical.
+7) Optimise and automate.
+
+__Service Value Chain__
+Not linear:
+Plan & Improve encapsulate other steps.
+Engage -> (Obtain/build + Design & Transition + Deliver & Support) -> Products and Services
+
+Service value chain uses interactions between practices.
+Each activity contributes to the service value chain by transforming specific inputs into outputs.
+Service value chain activities use different combinations of the 34 ITIL practices.
+
+All incoming and outgoing interactions are performed through the engage activity.
+All new resources are obtains through the obtain/build activity.
+Planning at all levels is performed by plan.
+Improvements at all levels are initiated and managed through the improve activity. 
+
+__Continual Improvement__
+Aligns the organisation's practices and services with changing business needs through the ongoing identification and improvement of services, service components, practices, or any element involved in the efficient and effective management of products and services.
+
+What is the vision? 
+-> Where are we now? 
+-> Where do we want to be? 
+-> How do we get there?
+-> Take Action 
+-> Did we get there? 
+-> (Return to beginning) How do we keep the momentum going?
+
+__Practice__ a set of organised resources designed for performing work or accomplishing an objective.
+3 Main Categories
+General Management Practices
+1) Architecture management
+2) Continual improvement
+3) Information security
+4) Knowledge management
+5) Measurement and reporting
+6) Organisation change management
+7) Portfolio management
+8) Project management
+9) Relationship management
+10) Risk management
+11) Service financial management
+12) Strategy management
+13) Supplier management
+14) Workflow and talent management
+Service Management Practices
+1) Availability management
+2) Business analysis
+3) Capacity and performance management
+4) Change enablement
+5) Incident management
+6) IT asset management
+7) Monitoring and event management
+8) Problem management
+9) Release management
+10) Service catalog management
+11) Service configuration management
+12) Service continuity management
+13) Service design
+14) Service desk
+15) Service level management
+16) Service request management
+17) Service validation and tooling
+Technical management practices
+1) Deployment management
+2) Infrastructure and platform management
+3) Software development and management
 
